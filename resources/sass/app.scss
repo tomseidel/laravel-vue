@@ -57,9 +57,9 @@ form.form-delete {
   min-width: 60px;
   margin-right: 30px;
   text-align: center;
-  color: #495057;
+  color: $gray-700;
 
-   span, a {
+  span, a {
     display: block;
   }
    span {
